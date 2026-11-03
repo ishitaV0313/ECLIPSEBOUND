@@ -26,12 +26,9 @@ are connected by a fate no one can escape.
 
 ## 🐉 THE HEART OF ECLIPSEBOUND
 
-**ISHIRA** — The girl whose destiny is tied to the
-mysteries of the universe.
+![ISHIRA](assets/characters/Ishira_%20Violet%20Sorceress%20of%20the%20Cosmos.png)
 
-**VAEL** — A dragon born during a lunar eclipse.
-Her protector, her shadow, and a force beyond
-imagination.
+![VAEL](assets/characters/Vael_Eclipse%20Dragon%20Rising%20%281%29.png)
 
 ## ✨ THE SEVEN REALMS
 
