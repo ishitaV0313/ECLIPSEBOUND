@@ -28,7 +28,8 @@ are connected by a fate no one can escape.
 
 ![ISHIRA](assets/characters/Ishira_%20Violet%20Sorceress%20of%20the%20Cosmos.png)
 
-![VAEL](assets/characters/Vael_Eclipse%20Dragon%20Rising%20%281%29.png)
+
+![VAEL](assets/characters/Vael_%20Eclipse%20Dragon%20Rising%20%281%29.png)
 
 ## ✨ THE SEVEN REALMS
 
