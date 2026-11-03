@@ -1,126 +1,88 @@
+<div align="center">
+
 # 🌑 ECLIPSEBOUND
 
 ### *Bound by Love. Doomed by Fate.*
 
-> **ECLIPSEBOUND** is an original dark-fantasy game & anime universe where emotion becomes power, cosmic balance shapes destiny, and every eclipse carries the potential to change the fate of an entire world.
+**AN ORIGINAL DARK FANTASY GAME & ANIME UNIVERSE**
+
+*The universe does not seek good or evil. It seeks balance.*
 
 ---
 
-## 🌌 About the Universe
+</div>
 
-ECLIPSEBOUND is a dark-fantasy universe built around **emotion, cosmic balance, mythology, and destiny**.
+## 🌌 ABOUT THE UNIVERSE
 
-At the heart of the universe lies **AETHRYX**, a living cosmic system connected to multiple realms. Within this system exists **VYRAEL**, a mysterious violet energy closely connected to the protagonist, **ISHIRA**.
+ECLIPSEBOUND is an original dark-fantasy universe where
+emotion becomes power, cosmic balance shapes destiny,
+and every eclipse carries the potential to change the
+fate of an entire world.
 
-The universe is shaped by ancient powers, dragons, warriors, forgotten realms, and an approaching apocalypse.
+Born from the **Broken Origin**, seven realms share
+one fractured timeline. Their histories, ancient
+powers, forgotten secrets and extraordinary characters
+are connected by a fate no one can escape.
 
----
+## 🐉 THE HEART OF ECLIPSEBOUND
 
-## 🌍 The Seven Realms
+**ISHIRA** — The girl whose destiny is tied to the
+mysteries of the universe.
 
-The universe contains seven major realms:
+**VAEL** — A dragon born during a lunar eclipse.
+Her protector, her shadow, and a force beyond
+imagination.
 
-- 🔴 **AETHRYX** — Realm of VAEL
-- ⚫ **NOXARA**
-- 🔵 **LUMERIS**
-- 🟣 **VYRAEL** — Realm of ISHIRA
-- ✨ **ASTRYNTH**
-- 🌿 **ELDERVAEL**
-- 🌑 **NYX'VAELOR** — The Forbidden Realm
+## ✨ THE SEVEN REALMS
 
-Each realm possesses its own history, culture, powers, and connection to the greater cosmic balance.
+| Realm | Identity |
+|---|---|
+| AETHRYX | The Realm of Balance |
+| NOXARA | Mind & Shadows |
+| LUMERIS | Light & Kingdoms |
+| VYRAEL | Violet Energy |
+| ASTRYNTH | One of the Seven Realms |
+| ELDERVAEL | One of the Seven Realms |
+| NYX'VAELOR | The Hidden Origin |
 
----
+## 📖 THE ANIME
 
-## ⚔️ Core Characters
+The story is planned across five seasons,
+each containing ten episodes.
 
-### 🟣 ISHIRA
-The central protagonist whose birth is connected to the coming apocalypse and the mysterious power of VYRAEL.
+**Season 01 — The Beginning of Fate**
 
-### 🐉 VAEL
-A powerful dragon whose existence is deeply connected to AETHRYX and the events surrounding the Lunar Eclipse.
+The first chapter of a universe shaped by eclipses,
+ancient prophecies, love and forgotten origins.
 
-### ⚔️ CIELLE
-A knight whose journey becomes intertwined with Ishira and the fate of the world.
+## 🎮 THE GAME
 
-### 🩸 VEYRIK
-A mysterious and powerful figure whose actions and motivations are connected to the deeper conflict within the universe.
+ECLIPSEBOUND is envisioned as a fantasy game
+connected to the anime storyline.
 
-### 👑 ZAR'KHAEL
-A major antagonist whose ambitions threaten the balance of the realms.
+Character journeys, abilities, realms and
+major story arcs will shape the evolving game world.
 
----
+## 📂 EXPLORE THE PROJECT
 
-## 🌘 The Eclipse
+- [Anime & Episodes](anime/)
+- [Characters](characters/)
+- [Universe Lore](lore/)
 
-The **Lunar Eclipse** is one of the most important events in ECLIPSEBOUND.
+## 🌙 OUR PHILOSOPHY
 
-It marks the beginning of a chain of events that will eventually lead to the apocalypse and the extraordinary birth of **ISHIRA**.
-
-The eclipse is not merely a celestial event.
-
-It is a turning point.
-
----
-
-## 📖 Story
-
-ECLIPSEBOUND is planned as a long-form narrative combining:
-
-- Dark fantasy
-- Mythology
-- Character-driven storytelling
-- Cosmic fantasy
-- Action and adventure
-- Emotional conflict
-- Interactive game elements
-
-### Season 1
-
-The first season begins with the **Lunar Eclipse**, the birth of VAEL, the approaching apocalypse, and the miraculous birth of ISHIRA.
+*Light and darkness are not enemies.
+They are forces seeking balance.*
 
 ---
 
-## 🎮 Project Vision
+<div align="center">
 
-ECLIPSEBOUND is being developed as a **game + anime universe**.
+**ECLIPSEBOUND**
 
-The long-term vision includes:
+*Bound by Love. Doomed by Fate.*
 
-- 🎮 Interactive game development
-- 🌌 Extensive worldbuilding
-- ⚔️ Character and combat systems
-- 🧠 AI-assisted game mechanics
-- 📖 Episodic storytelling
-- 🎨 Concept art and visual development
-- 🎵 Original atmosphere and sound design
+Created with imagination, passion and a universe
+waiting to be discovered.
 
----
-
-## 🗺️ Development Roadmap
-
-- [x] Universe concept
-- [x] Core mythology
-- [x] Seven realms
-- [x] Main character concepts
-- [ ] Complete character database
-- [ ] Season 1 story development
-- [ ] Game design documentation
-- [ ] Prototype development
-- [ ] AI/gameplay systems
-- [ ] Visual assets
-- [ ] Playable prototype
-
----
-
-## 👩‍💻 Creator
-
-**Ishita Patel**
-
-BCA — Artificial Intelligence & Data Analytics
-
-ECLIPSEBOUND is an original creative project combining **storytelling, worldbuilding, game development, and technology**.
-
----
-
-### 🌑 *Bound by Love. Doomed by Fate.*
+</div>
